@@ -17,9 +17,9 @@ The purpose of lifting state up in React is to transfer data from one child comp
 Ex:
 
 parent => child1 => parent => child2
-Parent: Fruit Container
-Child1: Fruit Filter
-Child2: Fruit List
+- Parent: Fruit Container
+- Child1: Fruit Filter
+- Child2: Fruit List
 
 Data is passed down to the parent it is then filtered into child2 and send back to fruit container to then go down to child2 to render the fruit list
 
