@@ -50,7 +50,7 @@ Return n + 1;
 })
  
 ```
-The babel input is a much more shorter way of coding the example in babel output. It is also using an anonynmous function. This is one of the reasons babel is used in react to complie what in the input to then render this code to the browser using ES5.
+The babel input is a much more shorter way of coding the example in babel output. It is also using an anonynmous function. This is one of the reasons babel is used in react to complie what's in the input to then render this code to the browser using ES5.
 
 ## 9. Given the array of strings: names, return a new array with each name properly capitalized. Must use .map() 
 ```
