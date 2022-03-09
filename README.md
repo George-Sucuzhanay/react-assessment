@@ -71,7 +71,7 @@ console.log(newArr)
 ```
 
  
-10. Create an array of strings, return a new array that only includes those that are 6 characters or fewer in length. Must use .filter()
+## 10. Create an array of strings, return a new array that only includes those that are 6 characters or fewer in length. Must use .filter()
 
 ```
 const myStr = ["January", "February", "March", "April", "May", "August"]
